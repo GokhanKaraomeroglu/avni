@@ -27,7 +27,7 @@ export default function Home() {
             <ul className="list-disc pl-5 space-y-2">
               <li>Türkçe - Hikayeler ve şiirler</li>
               <li>Matematik - Sayılar ve işlemler</li>
-              <li>Hayat Bilgisi - Çevremizi tanıyalım</li>
+              <li>Sosyal Bilgiler - Çevremizi tanıyalım</li>
               <li>Görsel Sanatlar - Resim ve el işleri</li>
               <li>Müzik - Şarkılar ve ritimler</li>
             </ul>
